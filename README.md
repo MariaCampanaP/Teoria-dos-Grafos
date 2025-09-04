@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007F73&reversal=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00b362&reversal=false"/>
 
 # ☕︎ Teoria dos Grafos
 
@@ -28,4 +28,4 @@ Os código serve como material de estudo e prática para reforçar os conceitos 
    git clone https://github.com/MariaCampanaP/Teoria-dos-Grafos.git
    ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007F73&reversal=false&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00b362&reversal=false&section=footer"/>
