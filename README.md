@@ -11,6 +11,9 @@ Este repositório reúne implementações de conceitos fundamentais de **Teoria 
 - *Lista de Adjacência*
 - *Matriz de Adjacência*
 - *Procedimento BFS utilizando Lista de Adjacências*
+- *Procedimento DFS utilizando Lista de Adjacências*
+- *Componentes Fortemente Conexos*
+- *Ordenação Topológica*
 
 # ☕︎ Objetivo
 
