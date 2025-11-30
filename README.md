@@ -14,6 +14,12 @@ Este repositório reúne implementações de conceitos fundamentais de **Teoria 
 - *Procedimento DFS utilizando Lista de Adjacências*
 - *Componentes Fortemente Conexos*
 - *Ordenação Topológica*
+- *Algoritmo de Kruskal*
+- *Algoritmo de Prim*
+- *Algoritmo de Bellman-Ford*
+- *Algoritmo de Dijkstra*
+- *Algoritmo de Floyd-Warshall*
+- *Heurística do Vizinho Mais Próximo*
 
 # ☕︎ Objetivo
 
