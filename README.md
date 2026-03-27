@@ -23,7 +23,7 @@ Este repositório reúne implementações de conceitos fundamentais de **Teoria 
 
 # ☕︎ Objetivo
 
-Os código serve como material de estudo e prática para reforçar os conceitos abordados na disciplina.
+Os códigos servem como material de estudo e prática para reforçar os conceitos abordados na disciplina.
 
 ## ☕︎ Tecnologia Utilizadas
 
