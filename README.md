@@ -2,7 +2,7 @@
 
 # ☕︎ Teoria dos Grafos
 
-Repositório contendo exercícios e projetos da disciplina **Teoria dos Grafos** do segundo ano de **Ciência da Computação** na UNESPAR.
+Repositório contendo exercícios da disciplina **Teoria dos Grafos** do segundo ano de **Ciência da Computação** na UNESPAR.
 
 ## ☕︎ Sobre o Repositório
 
